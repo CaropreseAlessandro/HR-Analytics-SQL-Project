@@ -50,6 +50,10 @@ Based on the data, I recommend the following actions:
 
 ---
 
+## 📊 Data Source
+The dataset used for this analysis is the **IBM HR Analytics Employee Attrition & Performance**, which is publicly available on Kaggle. 
+You can find the original data and documentation here: [Kaggle Dataset Link](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+
 ## 🚀 How to Run the Project
 1. Clone this repository.
 2. Import the `dataset.csv` into your SQL environment (e.g., MySQL Workbench).
